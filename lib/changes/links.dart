@@ -3,8 +3,7 @@ const String resume =
     'https://drive.google.com/drive/folders/1xo8jNiU66QrwDx2POxanSyPcDs9v10rx?usp=sharing';
 
 const String gitHub = 'https://github.com/HarizahSyawal';
-const String youtube =
-    'https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg';
+const String youtube = 'https://www.youtube.com/@harizahsyawal696';
 const String linkedin = 'https://www.linkedin.com/in/harizahsyawal/';
 const String instagram = 'https://www.instagram.com/hariza.id/';
 
